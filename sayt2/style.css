@@ -1,0 +1,236 @@
+.port{
+ text-align: center;
+    background-image: url("image/sekil.jpg");
+ padding: 103px;
+  background-size: cover;
+  background-position:center ;
+ 
+}
+.port h1{
+   font-weight: bold;
+    font-size: 80px;
+}
+.port p{
+    text-align: center;
+ font-size: 28px;
+ font-weight: bold;
+}
+.port button{
+    cursor: pointer;
+    border-radius: 5px;
+    transition: .8s;
+    padding: 20px 45px;
+    margin: 30px;
+    background-color: rgb(81, 81, 161);
+    color: aliceblue;
+}
+.port button:hover{
+    background-color: rgb(27, 27, 126);
+}
+
+.second{
+    margin-bottom: 50px;
+    margin-top: 100px;
+    text-align: center;
+}
+.second h2{
+    font-weight: bold;
+    font-size: 35px;
+}
+.second p{
+    font-size: 21px;
+}
+
+.second button{
+    cursor: pointer;
+    border-radius: 5px;
+    transition: .8s;
+    padding: 20px 45px;
+    margin: 30px;
+    background-color: rgb(1, 1, 14);
+    color: aliceblue;
+}
+.second button:hover{
+    background-color: rgb(21, 21, 37);
+}
+
+
+
+
+.services{
+    background-color:#007bf0;
+    padding: 50px 0px 290px 0px;
+}
+
+.services .txt h3{
+   margin-top: 0px;
+    text-align: center;
+    font-size: 25px;
+   color: yellow;
+}
+.services .txt h2{
+   
+    text-align: center;
+    font-size: 45px;
+    color: white;
+}
+
+
+.services .box{
+
+    width: 24%;
+    float: left;
+    text-align: center;
+}
+.services .box i{
+    font-size: 25px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 50px 50px;
+}
+
+.services .box p{
+    font-size: 22px;
+    text-align: center;
+    color: white;
+}
+
+.services .box h6{
+    font-weight: initial;
+    font-size: 17px;
+    text-align: center;
+    color: white;
+    margin-top: 0px;
+}
+
+
+.welcome{
+    margin-bottom: 0px;
+    padding: 170px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    background-image: url("image/sekil2.jpg");
+}
+.welcome h2{
+  letter-spacing: 3px;
+     margin-top: 0px;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+  
+  
+ 
+}
+.welcome button{
+    cursor: pointer;
+    border-radius: 5px;
+    transition: .8s;
+    padding: 20px 45px;
+    background-color: rgb(81, 81, 161);
+    color: aliceblue;
+}
+.welcome button:hover{
+   
+    border-radius: 5px;
+    transition: .8s;
+    background-color: rgb(24, 24, 68);
+    color: aliceblue;
+}
+
+
+.click{
+    text-align: center;
+    background-color: rgb(98, 98, 226);
+    padding: 100px;
+}
+
+
+.click p{
+    font-size: 30px;
+    font-weight: initial;
+    color: white;
+}
+
+.click button{
+    font-size: 15px;
+    transition: .8s;
+    padding: 17px 44px;
+    margin: 7px;
+    border-radius: 5px;
+
+}
+.click button:hover{
+
+    padding: 17px 44px;
+    margin: 7px;
+    background-color: rgb(224, 204, 224);
+}
+
+.ic{
+   
+    text-align: center;
+    margin-top: 40px;
+  
+}
+.ic i{
+    color: white;
+   margin: 10px;
+    background-color: rgb(23, 72, 88);
+    border-radius: 50%;
+    padding: 40px 40px;
+}
+
+
+
+
+.portfolio{
+    text-align: center;
+}
+.portfolio h3{
+    margin-bottom: 0px;
+    color:  rgb(202, 202, 35);
+}
+.portfolio h2{
+    margin-top: 0;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.portfolio .picture{
+    
+    width: 80%;
+    margin: auto;
+}
+.picture .pc{
+    transition: .5s;
+    width: 49%;
+    float: left;
+}
+
+.picture .pc img{
+    width: 100%;
+    height: 100%;
+}
+
+.picture .pc:hover{
+    opacity: 0.5;
+    transform: scale(0.9);
+    cursor: pointer;
+}
+
+
+.btn{
+    
+    background-color: rgb(39, 163, 163);
+    text-align: center;
+}
+.btn button:hover{
+background-color: rgb(134, 158, 167);
+}
+
+
+
+
+
